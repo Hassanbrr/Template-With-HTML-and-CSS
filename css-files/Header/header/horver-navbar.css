@@ -1,0 +1,18 @@
+.right-nav ul li a:hover {
+  color:#f4613a;
+}
+.brand > a:hover {
+  color: #f4613a;
+}
+/*  */
+.item-2 > div:hover {
+  background-color: #cf5331;
+}
+@media (max-width: 769px) {
+  .brand > a:hover {
+    color: black;
+  }
+  #responsive-navigation ul li a:hover {
+    color: #f4613a;
+  }
+}
